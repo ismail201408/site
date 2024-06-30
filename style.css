@@ -1,0 +1,42 @@
+img{
+    width: 1400px;
+    height: 350px;
+}
+.a{
+font-size:xx-large;
+color: white;
+margin-top: -250px;
+margin-left: 450px;
+}
+.b{
+    color: white;
+    margin-left: 410px;
+    margin-top: -20px;
+}
+button{
+    background-color: lawngreen;
+    color: white;
+    margin-left: 570px ;
+}
+
+.c{
+    margin-top: 200px;
+    margin-left: 160px;
+    font-size: 40px;
+}
+.d{
+    margin-top: -135px;
+    margin-left: 590px;
+    font-size: 40px;
+}
+.r{
+    margin-top: -140px;
+    margin-left: 1000px;
+    font-size: 40px;
+}
+span{
+    font-size: 14px;
+}
+pre{
+    margin-left: -100px;
+}
